@@ -1,0 +1,39 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "name": "Ahmad Rizki",
+      "position": "Frontend Developer",
+      "department": "Engineering",
+      "email": "ahmad@example.com"
+    },
+    {
+      "name": "Siti Nurhaliza",
+      "position": "UI Designer 1",
+      "department": "Design",
+      "email": "siti@example.com",
+      "id": "2"
+    },
+    {
+      "id": "286a",
+      "name": "Riky Ridho Pangestu",
+      "position": "UI Designer",
+      "department": "Sales",
+      "email": "ridhoestu.b@gmail.com"
+    },
+    {
+      "id": 7,
+      "name": "Ahmad Rizki",
+      "position": "Frontend Developer",
+      "department": "Engineering",
+      "email": "ahmad@company.com"
+    },
+    {
+      "id": 8,
+      "name": "Siti Nurhaliza",
+      "position": "UI/UX Designer",
+      "department": "Design",
+      "email": "siti@company.com"
+    }
+  ]
+}
